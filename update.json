@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "4.2.2-dev",
+  "versionCode": 28,
+  "versionName": "4.2.3-dev",
   "apkUrl": "https://raw.githubusercontent.com/sifatmm-byte/Project-Atlas-Updates/main/app-debug.apk",
-  "sha256": "7182e78a076dacd22c4cb6870a0693cb1befd32d54e6566044f7be045f7c2a20",
+  "sha256": "84681c3a8dbbb5d9bfb032a4aca5ec20045f885da9c0c17b89e34a2ceb3150ff",
   "notes": "Verified Project Atlas update"
 }
